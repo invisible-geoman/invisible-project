@@ -14,7 +14,7 @@
    viewBox="0 0 1600 1600"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="1436977610-8440.svg">
+   sodipodi:docname="link.svg">
   <metadata
      id="metadata447">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,9 +44,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.23976609"
-     inkscape:cx="428.49812"
-     inkscape:cy="617.96457"
+     inkscape:zoom="0.33908046"
+     inkscape:cx="2942.5329"
+     inkscape:cy="135.44564"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -291,14 +291,6 @@
        style="fill:#ffffff" />
     <use
        x="72"
-       y="96"
-       xlink:href="#p"
-       id="use67"
-       width="348"
-       height="348"
-       style="fill:#ffffff" />
-    <use
-       x="72"
        y="120"
        xlink:href="#p"
        id="use69"
@@ -374,14 +366,6 @@
        y="48"
        xlink:href="#p"
        id="use87"
-       width="348"
-       height="348"
-       style="fill:#ffffff" />
-    <use
-       x="84"
-       y="72"
-       xlink:href="#p"
-       id="use89"
        width="348"
        height="348"
        style="fill:#ffffff" />
@@ -534,14 +518,6 @@
        y="240"
        xlink:href="#p"
        id="use127"
-       width="348"
-       height="348"
-       style="fill:#ffffff" />
-    <use
-       x="96"
-       y="252"
-       xlink:href="#p"
-       id="use129"
        width="348"
        height="348"
        style="fill:#ffffff" />
@@ -1032,7 +1008,8 @@
        id="use251"
        width="348"
        height="348"
-       style="fill:#ffffff" />
+       style="fill:#ffffff"
+       transform="matrix(-1,0,0,1,384,0)" />
     <use
        x="180"
        y="72"
@@ -1040,7 +1017,8 @@
        id="use253"
        width="348"
        height="348"
-       style="fill:#ffffff" />
+       style="fill:#ffffff"
+       transform="matrix(-1,0,0,1,384,0)" />
     <use
        x="180"
        y="132"
@@ -1096,7 +1074,8 @@
        id="use267"
        width="348"
        height="348"
-       style="fill:#ffffff" />
+       style="fill:#ffffff"
+       transform="matrix(-1,0,0,1,384,0)" />
     <use
        x="192"
        y="84"
@@ -1104,15 +1083,8 @@
        id="use269"
        width="348"
        height="348"
-       style="fill:#ffffff" />
-    <use
-       x="192"
-       y="120"
-       xlink:href="#p"
-       id="use271"
-       width="348"
-       height="348"
-       style="fill:#ffffff" />
+       style="fill:#ffffff"
+       transform="matrix(-1,0,0,1,384,0)" />
     <use
        x="192"
        y="144"
@@ -1306,14 +1278,6 @@
        height="348"
        style="fill:#ffffff" />
     <use
-       x="216"
-       y="288"
-       xlink:href="#p"
-       id="use321"
-       width="348"
-       height="348"
-       style="fill:#ffffff" />
-    <use
        x="228"
        y="48"
        xlink:href="#p"
@@ -1502,14 +1466,6 @@
        y="84"
        xlink:href="#p"
        id="use369"
-       width="348"
-       height="348"
-       style="fill:#ffffff" />
-    <use
-       x="252"
-       y="96"
-       xlink:href="#p"
-       id="use371"
        width="348"
        height="348"
        style="fill:#ffffff" />
